@@ -5,7 +5,8 @@
 # print(type(age))
 
 
-Weight_lbs = input('Weight (lbs):')
-weight_kg =float(Weight_lbs)/2.2046
-print(weight_kg)
+# Weight_lbs = input('Weight (lbs):')
+# weight_kg =float(Weight_lbs)/2.2046
+# print(weight_kg)
+print("Welcome to first program")
 
